@@ -56,7 +56,7 @@ Born and raised in [Perth, Western Australia](https://en.wikipedia.org/wiki/Pert
 - [Bash Coding Standard](https://github.com/Open-Technology-Foundation/bash-coding-standard)
 - [CustomKb RAG System](https://github.com/Open-Technology-Foundation/customkb)
 - [MD-to-Ansi for Terminal](https://github.com/Open-Technology-Foundation/md2ansi)
-- See all other repositoried at [Open-Technology-Foundation](https://github.com/Open-Technology-Foundation)
+- See all other repositories at [Open-Technology-Foundation](https://github.com/Open-Technology-Foundation)
 
 ---
 
