@@ -38,7 +38,7 @@ Born and raised in [Perth, Western Australia](https://en.wikipedia.org/wiki/Pert
 
 ## Interests
 
-- Group theory / Prosociality
+- [Prosociality](https://www.prosocial.world/)
 - Secularised dharmas
 - AI and AI programming
 - Human evolution (biological, cultural, technological, political)
