@@ -17,20 +17,20 @@ Born and raised in Perth, Western Australia (pre-Sputnik era!), I grew up in a m
 
 ## What I Do
 
-### 🧑‍🔬 Applied Anthropology & Politics
+### Applied Anthropology & Politics
 
 - Deeply engaged with human cultures, political systems, and international relations
 - Specialist in the history, culture, and politics of Maritime Southeast Asia, especially Indonesia
 - Proficient in Indonesian language and geopolitics
 - Advocate for open political systems and secular dharma
 
-### 💻 Systems Engineering & Computing
+### Systems Engineering & Computing
 
 - Linux system administration & scripting
 - Application programming: PHP, SQL, Bash, Python
 - Supporter of open-source technology & software
 
-### 🧬 Biology
+### Biology
 
 - Animal husbandry (ruminants), hydroponics, aquaponics, and invertebrate protein production
 - Keen interest in human evolutionary biology/psychology and nutritional biology
@@ -53,8 +53,7 @@ Born and raised in Perth, Western Australia (pre-Sputnik era!), I grew up in a m
 All my open-source contributions are in [Indonesian Open Technology Foundation](https://github.com/Open-Technology-Foundation):
 
 - [Open-Technology-Foundation/.github](https://github.com/Open-Technology-Foundation/.github)
-- [dejavu.ai](https://github.com/Open-Technology-Foundation/dejavu.ai)
-- See more at [Open-Technology-Foundation](https://github.com/Open-Technology-Foundation)
+- See repositoried at [Open-Technology-Foundation](https://github.com/Open-Technology-Foundation)
 
 ---
 
@@ -92,7 +91,7 @@ Indonesian companies across various fields.
 
 - 🌐 [garydean.id](https://garydean.id)
 - 💼 [LinkedIn](https://www.linkedin.com/in/garydean/)
-- 🐦 [X (Twitter)](https://x.com/gary_dean)
+- 🐦 [X](https://x.com/gary_dean)
 
 ---
 
