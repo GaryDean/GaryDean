@@ -52,6 +52,13 @@ Born and raised in [Perth, Western Australia](https://en.wikipedia.org/wiki/Pert
 
 All my open-source contributions are in [Indonesian Open Technology Foundation](https://github.com/Open-Technology-Foundation):
 
+- [Applied Anthropology Knowledgebase](https://github.com/Open-Technology-Foundation/appliedanthropology)
+- [Secular Dharma Knowledgebase](https://github.com/Open-Technology-Foundation/seculardharma)
+- [Locale for Indonesian English](https://github.com/Open-Technology-Foundation/en_ID)
+- [Bash Coding Standard](https://github.com/Open-Technology-Foundation/bash-coding-standard)
+- [CustomKb RAG System](https://github.com/Open-Technology-Foundation/customkb)
+- [MD-to-Ansi for Terminal](https://github.com/Open-Technology-Foundation/md2ansi)
+
 - [Open-Technology-Foundation/.github](https://github.com/Open-Technology-Foundation/.github)
 - See repositoried at [Open-Technology-Foundation](https://github.com/Open-Technology-Foundation)
 
