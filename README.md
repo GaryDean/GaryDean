@@ -1,4 +1,4 @@
-# 👋 Gary Dean
+# Gary Dean
 
 **Researcher in Applied Anthropology & Systems Engineer**
 
