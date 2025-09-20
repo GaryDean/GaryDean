@@ -45,6 +45,7 @@ Born and raised in Perth, Western Australia (pre-Sputnik era!), I grew up in a m
 - Human evolution (biological, cultural, technological, political)
 - Nutritional biology
 - Human discourse
+- Yachting
 
 ---
 
@@ -60,7 +61,7 @@ All my open-source contributions are in [Indonesian Open Technology Foundation](
 ## Business Endeavours
 
 **Founder & Chairman**  
-Okusi Group — Corporate services for foreign investors in Indonesia: company establishment, accounting & taxation, audit, merger/liquidation, immigration, and research.
+[Okusi Group](https://okusiassociates.com) — Corporate services for foreign investors in Indonesia: company establishment, accounting & taxation, audit, merger/liquidation, immigration, and research.
 
 **Director**  
 Indonesian companies across various fields.
