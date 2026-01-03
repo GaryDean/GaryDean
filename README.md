@@ -29,6 +29,8 @@ Born and raised in [Perth, Western Australia](https://en.wikipedia.org/wiki/Pert
 - Application programming: PHP, SQL, Bash, Python
 - Supporter of open-source technology & software
 
+As a programmer, I am mostly active in [Okusi Associates](https://github.com/OkusiAssociates) and [YaTTI](https://github.com/Open-Technology-Foundation).
+
 ### Biology
 
 - Animal husbandry (ruminants), hydroponics, aquaponics, and invertebrate protein production
