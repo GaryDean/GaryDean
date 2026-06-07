@@ -45,7 +45,6 @@ As a programmer, I am mostly active in [Okusi Associates](https://github.com/Oku
 - AI and AI programming
 - Human evolution (biological, cultural, technological, political)
 - Nutritional biology
-- Human discourse
 - Yachting
 
 ---
@@ -57,7 +56,6 @@ As a programmer, I am mostly active in [Okusi Associates](https://github.com/Oku
 - [Locale for Indonesian English](https://github.com/Open-Technology-Foundation/en_ID)
 - [Bash Coding Standard](https://github.com/Open-Technology-Foundation/bash-coding-standard)
 - [CustomKb RAG System](https://github.com/Open-Technology-Foundation/customkb)
-- [MD-to-Ansi for Terminal](https://github.com/Open-Technology-Foundation/md2ansi)
 - See all other repositories at [Open-Technology-Foundation](https://github.com/Open-Technology-Foundation)
 
 ---
